@@ -56,11 +56,11 @@ src/
 ---
 
 
-
 ## 📊 発表資料
 
 - **PowerPoint**  
-  `slides/shiritsuretsu-movie-gacha.pptx`
+  👉 [slides/shiritsuretsu-movie-gacha.pptx](slides/shiritsuretsu-movie-gacha.pptx)
 
 - **PDF版（推奨）**  
-  `slides/shiritsuretsu-movie-gacha.pdf`
+  👉 [slides/shiritsuretsu-movie-gacha.pdf](slides/shiritsuretsu-movie-gacha.pdf)
+
