@@ -51,11 +51,19 @@ src/
 ├─ Models/
 └─ Config/
 
+
+
 ---
+
+
+
+
+
 
 ## 📊 発表資料
 
-- PowerPoint:  
+- **PowerPoint**  
   `slides/shiritsuretsu-movie-gacha.pptx`
-- PDF版（推奨）:  
+
+- **PDF版（推奨）**  
   `slides/shiritsuretsu-movie-gacha.pdf`
