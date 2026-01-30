@@ -55,12 +55,10 @@ src/
 
 ---
 
+## 📊 発表資料（PDF）
 
-## 📊 発表資料
+- 👉 **[発表資料（共有リンク）]([https://github.com/ユーザー名/shirishiraretsu-movie-gacha/blob/main/slides/shiritsuretsu-movie-gacha.pdf](https://drive.google.com/file/d/1Bt1yeOy4VfgFDG_ZmDZM3RB8XUSe9M31/view?usp=drive_link))**
 
-- **PowerPoint**  
-  👉 [slides/shiritsuretsu-movie-gacha.pptx](slides/shiritsuretsu-movie-gacha.pptx)
+※ ブラウザでそのまま閲覧できます。
 
-- **PDF版（推奨）**  
-  👉 [slides/shiritsuretsu-movie-gacha.pdf](slides/shiritsuretsu-movie-gacha.pdf)
 
