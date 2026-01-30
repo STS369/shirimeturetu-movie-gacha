@@ -57,7 +57,7 @@ src/
 
 ## 📊 発表資料（PDF）
 
-- 👉 **[発表資料（共有リンク）](https://drive.google.com/file/d/1Bt1yeOy4VfgFDG_ZmDZM3RB8XUSe9M31/view?usp=drive_link)**
+- 👉 **[発表資料（共有リンク）](https://docs.google.com/presentation/d/1IjrkM6HV0GC4pJA59GBDZ82y7sHRUDHT/edit?usp=drive_link&ouid=105330700326123250967&rtpof=true&sd=true)**
 
 ※ ブラウザでそのまま閲覧できます。
 
