@@ -55,7 +55,7 @@ src/
 
 ---
 
-## 📊 発表資料（PDF）
+## 📊 発表資料（pptx）
 
 - 👉 **[発表資料（共有リンク）](https://docs.google.com/presentation/d/1IjrkM6HV0GC4pJA59GBDZ82y7sHRUDHT/edit?usp=drive_link&ouid=105330700326123250967&rtpof=true&sd=true)**
 
