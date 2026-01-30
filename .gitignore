@@ -1,0 +1,19 @@
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ===== Xcode / iOS =====
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# ===== Swift Package Manager =====
+.build/
+
+# ===== Secrets (DO NOT COMMIT) =====
+# TMDB API Token (real key)
+TMDBConfig.swift
